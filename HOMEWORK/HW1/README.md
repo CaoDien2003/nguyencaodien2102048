@@ -1,6 +1,6 @@
 # **Vehicle Insurance Claim Fraud Detection**
 
-![forest](public\image.png)
+![forest](public/image.png)
 
 ## About Dataset:
 
