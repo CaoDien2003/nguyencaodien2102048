@@ -6,7 +6,7 @@
 
 </div>
 
-# <div align="center">**Table of Contents**</div>
+# <div align="center">📋 Table of Contents</div>
 
 ## About Dataset:
 
@@ -27,3 +27,29 @@ Vehicle insurance fraud involves conspiring to make false or exaggerated claims 
 [![Pandas](https://img.shields.io/badge/Pandas-1.x-blue)](https://pandas.pydata.org/) [![NumPy](https://img.shields.io/badge/NumPy-1.x-orange)](https://numpy.org/) [![Matplotlib](https://img.shields.io/badge/Matplotlib-3.x-brightgreen)](https://matplotlib.org/) [![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0.x-red)](https://scikit-learn.org/) [![Imbalanced-learn](https://img.shields.io/badge/Imbalanced--learn-0.x-purple)](https://imbalanced-learn.org/)
 
 </div>
+
+**Install the required libraries:**
+
+<div align="center">
+
+```bash
+pip install -r /HOMEWORK/HW1/requirements.txt
+```
+
+</div>
+
+## Run the Jupyter Notebook
+
+```bash
+jupyter notebook vehicle_insurance_claim_fraud_detection.ipynb
+```
+
+---
+
+## 📬 Contact
+
+For any inquiries or contributions, feel free to reach out:
+
+- **Email:** nguyencaodien2003@gmail.com
+- **GitHub:** [CaoDien2003](https://github.com/YourGitHubUsername)
+- **LinkedIn:** [Điền Cao](https://www.linkedin.com/in/nguyencaodien/)
